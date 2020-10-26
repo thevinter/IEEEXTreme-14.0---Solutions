@@ -12,17 +12,17 @@ Submissions for the IEEExtreme 2020 competition.
 
 ### Points: 1082.68 :trophy:
 
-### Ranking
-# Italy: 1st
-# Region 8: 25th
-# World: 95th
+## Ranking
+### Italy: 1st
+### Region 8: 25th
+### World: 95th
 
 ### Programming Languages
 * Python
 * C
 * Java
 
-### Tasks :triangular_flag_on_post:
+### Tasks	 :triangular_flag_on_post:
 * IEEEXplore Indexing: **90%**
 * Linearly Separable Samples: **66.67%**
 * Mosaic Decoration I: **100%**
